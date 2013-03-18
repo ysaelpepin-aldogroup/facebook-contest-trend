@@ -1,7 +1,10 @@
+@import url("http://www.aldoshoes.com/css/fonts.css");
+
 @container-width:790px;
 @p-width:500px;
 @h1-font-size:25px;
 @text-font-size:16px;
+@small-text-font-size:14px;
 @big-space:40px;
 @small-space:20px;
 @hr-width:150px;
@@ -15,11 +18,11 @@
 	margin-top: @big-space;
 }
 .aldo-ct-container{
-	font-family: "Trade Gothic LT Narrow";
+	font-family: "Trade Gothic LT Narrow" !important;
 	width: @container-width;
 	text-align: center;
 	-background-color: #ff0066;
-	font-size: @text-font-size;
+	font-size: @text-font-size !important;
 }
 
 .aldo-ct-p{
@@ -27,7 +30,7 @@
 	width: @p-width;
 	margin:0 auto;
 	padding: 0;
-	margin-top: @small-space;
+	margin-top: @small-space !important;
 }
 
 .aldo-ct-li, .aldo-ct-ul{
@@ -43,11 +46,12 @@
 }
 
 .aldo-ct-h1{
-	font-size: @h1-font-size;
+	font-size: @h1-font-size !important;
 	text-transform: uppercase;
 	padding: 0;
 	margin: 0;
-	margin-top: @small-space;
+	font-family: "Trade Gothic Bold" !important;
+	margin-top: @small-space !important;
 }
 
 .aldo-ct-hr{
@@ -59,69 +63,97 @@
 }
 
 .aldo-ct-invert{
-	background-color: #000000;
+	-background-color: #000000;
 
-	color: #FFF600;
+	-color: #FFF600;
 	-font-family: "trade_gothic_ltboldcondtwenty";
-	padding: 2px ;
+	-padding: 2px ;
 }
 
 /* reskin of offerpop*/
 
 
 div.SDescription h1 {
-	font-size: 25px;
-	margin-bottom: 0px;
-	font-weight: normal;
+	font-size: 25px  ;
+	margin-bottom: 0px ;
+	font-weight: normal ;
+	font-family: "Trade Gothic Bold" ;
 }
 
 a.CButton {
-	font-family: "Trade Gothic LT Narrow";
-	color: #000000;
-	-webkit-border-radius: 0px;
-	-moz-border-radius: 0px;
-	margin: 0 auto;
-	font-size: 16px;
-	text-transform: uppercase;
-	float: none;
-	display: inline;
+	font-family: "Trade Gothic LT Narrow" ;
+	color: #000000 ;
+	-webkit-border-radius: 0px ;
+	-moz-border-radius: 0px ;
+	margin: 0 auto ;
+	font-size: 16px ;
+	text-transform: uppercase ;
+	float: none ;
+	display: inline ;
 }
 
 div.CAction{
-	text-align: center;
+	text-align: center ;
 }
 
 div.CNav{
-	font-family: 'Trade Gothic LT Narrow', tahoma, verdana, arial, sans-serif;
-	border-bottom: 1px solid #000000;
-	font-size: @text-font-size;
-	padding: 7px 0 4px 0px;
-	text-transform: uppercase;
+	font-family: 'Trade Gothic LT Narrow', tahoma, verdana, arial, sans-serif ;
+	border-bottom: 1px solid #000000 ;
+	font-size: @text-font-size ;
+	padding: 7px 0px 3px 0px ;
+
+	text-transform: uppercase ;
+	text-align: center ;
 }
 
 div.CNav a:hover {
-	background: #000000;
-	text-decoration: none;
-	border: 0;
-	color: white;
+	background: #000000 ;
+	text-decoration: none ;
+	border: 0 ;
+	color: white ;
 }
 
 div.CNav a {
-	color: #000000;
-	background: #ffffff;
-	padding: 6px 10px 4px 10px;
-	border: 0;
-	text-decoration: none;
-	font-weight: bold;
-	border: 1px solid #000000;
+	color: #9d9b9b ;
+	background:none ;
+	padding: 6px 10px 4px 10px ;
+	border: 0 ;
+	text-decoration: none ;
+	font-weight: normal ;
+	border: 0px solid #000000 ;
+	font-size: @small-text-font-size ;
 }
 
-div.CNav a.RightMenu{
+div.CNav a.RightMenu {
+  float: none ;
+  background: none ;
+  font-weight: bold ;
+  margin: -8px 0px 0 0 ;
+  border: 0px solid #000000 ;
+}
 
-	float: right;
-	font-weight: normal;
-	margin: -8px 0px 0 0;
-	 border: 1px solid #000000;
+div.CNav a.RightMenu:hover {
+	background: #000000  ;
+	text-decoration: none ;
+	border: 0 ;
+	color: white ;
+}
+
+
+div.CNav a.Disabled:hover ,div.CNav a.Disabled {
+	background: none ;
+	font-weight: normal ;
+
+	color: #9d9b9b ;
+	
+}
+
+div.CNav a.Sel {
+background:none;
+color:black;
+border0:px solid #D8DFEA; /*facebook light blue*/
+border-bottom:0;
+padding-bottom:5px;
 }
 
 

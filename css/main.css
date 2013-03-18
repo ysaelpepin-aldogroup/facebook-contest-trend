@@ -1,3 +1,4 @@
+@import url("http://www.aldoshoes.com/css/fonts.css");
 .small-space-m-top {
   margin-top: 20px;
 }
@@ -5,17 +6,17 @@
   margin-top: 40px;
 }
 .aldo-ct-container {
-  font-family: "Trade Gothic LT Narrow";
+  font-family: "Trade Gothic LT Narrow" !important;
   width: 790px;
   text-align: center;
   -background-color: #ff0066;
-  font-size: 16px;
+  font-size: 16px !important;
 }
 .aldo-ct-p {
   width: 500px;
   margin: 0 auto;
   padding: 0;
-  margin-top: 20px;
+  margin-top: 20px !important;
 }
 .aldo-ct-li,
 .aldo-ct-ul {
@@ -27,11 +28,12 @@
   margin-top: 20px;
 }
 .aldo-ct-h1 {
-  font-size: 25px;
+  font-size: 25px !important;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
-  margin-top: 20px;
+  font-family: "Trade Gothic Bold" !important;
+  margin-top: 20px !important;
 }
 .aldo-ct-hr {
   border: 0 #ffffff;
@@ -41,56 +43,81 @@
   margin-top: 20px;
 }
 .aldo-ct-invert {
-  background-color: #000000;
-  color: #FFF600;
+  -background-color: #000000;
+  -color: #FFF600;
   -font-family: "trade_gothic_ltboldcondtwenty";
-  padding: 2px ;
+  -padding: 2px ;
 }
 /* reskin of offerpop*/
 div.SDescription h1 {
-  font-size: 25px;
-  margin-bottom: 0px;
-  font-weight: normal;
+  font-size: 25px  ;
+  margin-bottom: 0px ;
+  font-weight: normal ;
+  font-family: "Trade Gothic Bold";
 }
 a.CButton {
   font-family: "Trade Gothic LT Narrow";
-  color: #000000;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  margin: 0 auto;
-  font-size: 16px;
-  text-transform: uppercase;
-  float: none;
-  display: inline;
+  color: #000000 ;
+  -webkit-border-radius: 0px ;
+  -moz-border-radius: 0px ;
+  margin: 0 auto ;
+  font-size: 16px ;
+  text-transform: uppercase ;
+  float: none ;
+  display: inline ;
 }
 div.CAction {
-  text-align: center;
+  text-align: center ;
 }
 div.CNav {
   font-family: 'Trade Gothic LT Narrow', tahoma, verdana, arial, sans-serif;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #000000 ;
   font-size: 16px;
-  padding: 7px 0 4px 0px;
-  text-transform: uppercase;
+  padding: 7px 0px 3px 0px ;
+  text-transform: uppercase ;
+  text-align: center ;
 }
 div.CNav a:hover {
-  background: #000000;
-  text-decoration: none;
-  border: 0;
-  color: white;
+  background: #000000 ;
+  text-decoration: none ;
+  border: 0 ;
+  color: white ;
 }
 div.CNav a {
-  color: #000000;
-  background: #ffffff;
-  padding: 6px 10px 4px 10px;
-  border: 0;
-  text-decoration: none;
-  font-weight: bold;
-  border: 1px solid #000000;
+  color: #9d9b9b ;
+  background: none ;
+  padding: 6px 10px 4px 10px ;
+  border: 0 ;
+  text-decoration: none ;
+  font-weight: normal ;
+  border: 0px solid #000000 ;
+  font-size: 14px;
 }
 div.CNav a.RightMenu {
-  float: right;
-  font-weight: normal;
+  float: none ;
+  background: none ;
+  font-weight: bold ;
   margin: -8px 0px 0 0;
-  border: 1px solid #000000;
+  border: 0px solid #000000 ;
+}
+div.CNav a.RightMenu:hover {
+  background: #000000  ;
+  text-decoration: none ;
+  border: 0 ;
+  color: white ;
+}
+div.CNav a.Disabled:hover,
+div.CNav a.Disabled {
+  background: none ;
+  font-weight: normal ;
+  color: #9d9b9b ;
+}
+div.CNav a.Sel {
+  background: none;
+  color: black;
+  border0: px solid #D8DFEA;
+  /*facebook light blue*/
+
+  border-bottom: 0;
+  padding-bottom: 5px;
 }

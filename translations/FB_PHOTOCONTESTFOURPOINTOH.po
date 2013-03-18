@@ -1,0 +1,657 @@
+# Translation File for Your Offerpop Campaign
+# Copyright (C) 2012 Offerpop
+# Report Bug to support@offerpop.com
+#
+# Strings marked by msgid are original English strings.
+# To replace them with strings in your preferred language,
+# just fill msgstr field with your translation, e.g.:
+# msgid "Hello"
+# msgstr "Hola"
+#
+# Strings wrapped by double curly braces are variables,
+# which should be kept in their original formats, e.g.:
+# msgid "Hello, {{this.name}}"
+# msgstr "Hola, {{this.name}}"
+#
+# Placeholder like %{name}s shouldn't be translated, and
+# it needs to be placed in the correct position in your
+# translation. For example:
+# msgid "Welcome, %{name}s"
+# msgstr "Bienvenida, %{name}s"
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Tweet"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+#. This message shows up when the email address entered by user is invalid
+msgid "Enter valid email"
+msgstr ""
+
+msgid "Please upload a valid picture"
+msgstr ""
+
+msgid "Please select one of the"
+msgstr ""
+
+#. This message shows up if user forgets to fill any required field
+msgid "Required items highlighted in red"
+msgstr ""
+
+msgid "Filter by"
+msgstr ""
+
+msgid "Recently Added"
+msgstr ""
+
+msgid "Total Votes"
+msgstr ""
+
+msgid "Most Recent"
+msgstr ""
+
+msgid "Most Votes"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Share with Friends"
+msgstr ""
+
+#. It's followed by your bitly link for sharing
+msgid "Link for this page:"
+msgstr ""
+
+msgid "Share on Facebook"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "OPTIONAL"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+msgid "Processing, hold on"
+msgstr ""
+
+msgid "if this does not work, click"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "This contest is over.  Thank you for participating!"
+msgstr ""
+
+msgid "About this contest"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "View entries"
+msgstr ""
+
+msgid "Submit an entry"
+msgstr ""
+
+msgid "Winners"
+msgstr ""
+
+msgid "Your entry has been received!"
+msgstr ""
+
+msgid "Your entry has been posted!"
+msgstr ""
+
+msgid ""
+"Your entry is pending approval and is not currently viewable in the gallery."
+"<br>We review entries often, so check back soon!"
+msgstr ""
+
+msgid ""
+"Your entry is pending approval and is not currently viewable in the gallery. "
+"We review entries often, so check back soon!"
+msgstr ""
+
+#. It will be followed by your voting start date and time
+msgid "Voting starts"
+msgstr ""
+
+#. Don't translate the string enclosed by html tag <b> and </b>
+msgid "People can vote for you by clicking the <b>'Vote'</b> button below."
+msgstr ""
+
+#. Don't translate the string enclosed by html tag <b> and </b>
+msgid ""
+"Use the '<b>Share with Friends</b>' button above to get votes from friends!"
+msgstr ""
+
+msgid "To tweet or email people, use the share links on the upper right."
+msgstr ""
+
+msgid "Good luck!"
+msgstr ""
+
+#. Don't translate the string enclosed by html tag <b> and </b>
+msgid ""
+"If you want to be able to edit your entry at any point in the contest, click "
+"the '<b>Connect</b>' button to the right to link your entry to your Facebook "
+"account."
+msgstr ""
+
+#. Don't translate the string enclosed by html tag <b> and </b>
+msgid ""
+"If you don't click '<b>Connect</b>' now, you will not be able to edit your "
+"entry at all."
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+#. Don't translate this if you are not using moderated entries
+msgid ""
+"Your entry is currently pending approval. Check back soon!<br><br>Save this "
+"link for your records: "
+msgstr ""
+
+msgid "This is your entry."
+msgstr ""
+
+msgid "Click 'Edit' to make changes"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#. This string will be followed by the submitter's name
+msgid "More from"
+msgstr ""
+
+msgid "submit another entry"
+msgstr ""
+
+msgid "votes"
+msgstr ""
+
+msgid "If you like this, come back then to vote for it!"
+msgstr ""
+
+msgid "Contest details"
+msgstr ""
+
+msgid "Vote"
+msgstr "Love It"
+
+msgid "Having trouble voting? Report a problem!"
+msgstr ""
+
+msgid "Add a comment"
+msgstr ""
+
+msgid "You need to wait one hour between votes"
+msgstr ""
+
+msgid "You can vote once every 24 hours"
+msgstr ""
+
+msgid "Limit of 1 vote per person"
+msgstr ""
+
+msgid "per entry"
+msgstr ""
+
+msgid ""
+"Why is {{this.coupon.getFacebookApp.get_name}} asking for access to my "
+"Facebook profile?"
+msgstr ""
+
+msgid ""
+"is using {{this.coupon.getFacebookApp.get_name}} to run this program. To "
+"reduce the potential for voter fraud, we need to confirm who you are by "
+"checking your public Facebook profile. We will not use this information for "
+"any other purpose, and we will never post to your wall or send you spam."
+msgstr ""
+
+msgid ""
+"Hope this answers any concerns you may have had. To go ahead and "
+"participate, just click the button to the right."
+msgstr ""
+
+msgid "SENDING"
+msgstr ""
+
+msgid "Skip this, and don't enter contest"
+msgstr ""
+
+msgid "This promotion is over.  Thanks for participating!"
+msgstr ""
+
+msgid ""
+"This is just for our fans on Facebook.<br>To become a fan and get access, "
+"click the Like button above!"
+msgstr ""
+
+msgid "The entry submission period is over."
+msgstr ""
+
+msgid "More info"
+msgstr ""
+
+msgid "Select from the following"
+msgstr ""
+
+msgid "Picture:"
+msgstr ""
+
+msgid "Choose a high-quality image to enter."
+msgstr ""
+
+msgid "From Facebook"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "uploading your picture, please wait"
+msgstr ""
+
+msgid "This may take a few minutes for large picture files"
+msgstr ""
+
+msgid "cancel upload"
+msgstr ""
+
+msgid "Register using Facebook"
+msgstr ""
+
+msgid ""
+"This form is only for Facebook users. Just click above to register. You must "
+"register to participate."
+msgstr ""
+
+msgid "Use your Facebook information"
+msgstr ""
+
+msgid ""
+"Use your Facebook information to make filling out this form easier and to "
+"include your photo."
+msgstr ""
+
+msgid "Share my photo on my Facebook Timeline"
+msgstr ""
+
+msgid "This contest is over.  Thanks to all who joined us!"
+msgstr ""
+
+msgid "Click to see all the entries, and who won!"
+msgstr ""
+
+msgid "All votes are in!"
+msgstr ""
+
+msgid "Thanks for your participation!"
+msgstr ""
+
+msgid "Show more entries"
+msgstr ""
+
+msgid "An error occurred. Please refresh and try again."
+msgstr ""
+
+msgid "No matching entries found."
+msgstr ""
+
+msgid "Click to see the winning entries!"
+msgstr ""
+
+msgid "By participating in this promotion you agree to the"
+msgstr ""
+
+msgid "Official Rules"
+msgstr ""
+
+msgid "You are providing your information to"
+msgstr ""
+
+msgid ""
+"and not to Facebook. Your information will only be used in accordance with "
+"the Official Rules."
+msgstr ""
+
+msgid ""
+"We had a problem processing your vote. Please refresh the page and try again."
+msgstr ""
+
+msgid "We had a problem processing your vote."
+msgstr ""
+
+msgid "We've already received a vote from your Facebook account."
+msgstr ""
+
+msgid ""
+"If you're trying to vote from work or a public place, voting from home "
+"should help."
+msgstr ""
+
+#. Translate the following six messages if you are using Assured Voting.
+msgid ""
+"We've already received a vote from your Facebook account for this entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from your Facebook account in this contest."
+msgstr ""
+
+msgid ""
+"We've already received a vote from your Facebook account within the past "
+"hour for this entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from your Facebook account within the past "
+"hour in this contest."
+msgstr ""
+
+msgid ""
+"We've already received a vote from your Facebook account within the past 24 "
+"hours for this entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from your Facebook account within the past 24 "
+"hours in this contest."
+msgstr ""
+
+#. Translate the following six messages if you are not using Assured Voting.
+msgid ""
+"We've already received a vote from this computer or network address for this "
+"entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from this computer or network address in this "
+"contest."
+msgstr ""
+
+msgid ""
+"We've already received a vote from this computer or network address within "
+"the past hour for this entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from this computer or network address within "
+"the past hour in this contest."
+msgstr ""
+
+msgid ""
+"We've already received a vote from this computer or network address within "
+"the past 24 hours for this entry."
+msgstr ""
+
+msgid ""
+"We've already received a vote from this computer or network address within "
+"the past 24 hours in this contest."
+msgstr ""
+
+msgid "Voting has not started."
+msgstr ""
+
+msgid "Voting has ended."
+msgstr ""
+
+msgid "Votes are currently not being accepted."
+msgstr ""
+
+msgid ""
+"We were unable to access cookies for offerpop.com from your browser. Please "
+"add offerpop.com to your browser as a trusted site."
+msgstr ""
+
+msgid "Please enable cookies for offerpop.com and try again."
+msgstr ""
+
+msgid ""
+"In order to vote, you need to grant permissions in the Facebook permissions "
+"dialog."
+msgstr ""
+
+msgid "Please click Allow in the Facebook permissions dialog and try again."
+msgstr ""
+
+msgid "Search entries"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Sort by"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Report Spam"
+msgstr ""
+
+msgid "Reported"
+msgstr ""
+
+msgid "hold down CTRL and click to select more than one"
+msgstr ""
+
+msgid "Click to view and vote!"
+msgstr ""
+
+msgid "Invalid picture, Pictures must be PNG, JPG, or GIF format"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "REQUIRED"
+msgstr ""
+
+msgid "required"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Post code"
+msgstr ""
+
+msgid "Zip"
+msgstr ""
+
+msgid "Optional"
+msgstr ""
+
+msgid "Join our email list for more contests and special offers."
+msgstr ""
+
+msgid "Submitting"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "Skip this, and don't submit"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Check out this entry in %(campaign_headline)s!"
+msgstr ""
+
+msgid "Please vote for this entry in %(campaign_headline)s!"
+msgstr ""
+
+msgid "%(first_name)s featured in %(campaign_headline)s"
+msgstr ""
+
+msgid "Click here to see it"
+msgstr ""
+
+msgid "Get your friends to vote for this"
+msgstr ""
+
+msgid "Pin It"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Use the highlighted box to the left to create a thumbnail."
+msgstr ""
+
+msgid "Use the highlighted box to create a thumbnail."
+msgstr ""
+
+msgid "All entries"
+msgstr ""
+
+msgid "Entries voted by my friends"
+msgstr ""
+
+msgid "Entries submitted by my friends"
+msgstr ""
+
+msgid ""
+"In order to access your Facebook friends activities, you need to login our "
+"Facebook app."
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Back to gallery"
+msgstr ""
+
+msgid "View full-size"
+msgstr ""
+
+msgid "Posted in:"
+msgstr ""
+
+msgid "Select an album:"
+msgstr ""
+
+msgid "Select a photo from:"
+msgstr ""
+
+msgid "Bookmark this link and check back soon: "
+msgstr ""
+
+msgid "Make changes"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid ""
+"Get your friends to vote for you by sharing your entry on Facebook, Twitter, "
+"Pinterest or by email!"
+msgstr ""
+
+msgid ""
+"Get your friends to vote for you by sharing your entry on Facebook, Twitter, "
+"Pinterest or by email using the links on the upper right!"
+msgstr ""
+
+msgid ""
+"Connect with Facebook now to link your entry to your Facebook account.  That "
+"way we'll know it's you if you want to make changes later."
+msgstr ""
+
+msgid ""
+"If you don't connect now, you will not be able to make changes to your entry "
+"at all."
+msgstr ""
+
+msgid "Connect with Facebook"
+msgstr ""
+
+msgid "Facebook Friends only"
+msgstr ""
+
+msgid "Or, just snap a photo with your phone and:"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+#. Followed by your Twitter hashtag
+msgid "Tweet a photo and tag it with"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+#. Followed by your Instagram hashtag
+msgid "Upload a photo and tag it with"
+msgstr ""
+
+msgid ""
+"This app is for fans only. Please click below to grant permissions so we can "
+"confirm you're a fan."
+msgstr ""
+
+msgid "Sorry, you can only enter once every 24 hours.  Please try again later!"
+msgstr ""
+
+msgid "Sorry, you can only enter once."
+msgstr ""
+
+msgid "Back to our Facebook page"
+msgstr ""
+
+msgid "Is this your entry?"
+msgstr ""
+
+msgid "via Twitter"
+msgstr ""
+
+msgid "via Instagram"
+msgstr ""
+
+#. Don't translate placeholders {{this.platform}} and {{this.username}}, they will be replaced with appropriate values automatically
+msgid ""
+"To claim this entry, you must be logged in with the {{this.platform}} "
+"account used to submit it, &#64;{{this.username}}. Please try again."
+msgstr ""

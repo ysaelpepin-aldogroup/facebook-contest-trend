@@ -6,7 +6,7 @@
   margin-top: 40px;
 }
 .aldo-ct-container {
-  font-family: "Trade Gothic LT Narrow" !important;
+  font-family: "Trade Gothic LT Narrow", arial, sans-serif !important;
   width: 790px;
   text-align: center;
   -background-color: #ff0066;
@@ -32,14 +32,14 @@
 .aldo-ct-ul {
   width: 600px;
   margin: 0 auto;
-  margin-top: 20px;
+  -margin-top: 20px;
 }
 .aldo-ct-h1 {
   font-size: 25px !important;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
-  font-family: "Trade Gothic Bold" !important;
+  font-family: "Trade Gothic Bold", arial, sans-serif !important;
   margin-top: 20px !important;
 }
 .aldo-ct-hr {
@@ -55,19 +55,25 @@
   -font-family: "trade_gothic_ltboldcondtwenty";
   -padding: 2px ;
 }
+.aldo-ct-bold {
+  font-family: "Trade Gothic Bold", arial, sans-serif !important;
+}
+.aldo-ct-small {
+  font-size: 11px !important;
+}
 /* reskin of offerpop*/
 body,
 div,
 span,
 a,
 button {
-  font-family: "Trade Gothic LT Narrow" !important;
+  font-family: "Trade Gothic LT Narrow", arial, sans-serif !important;
 }
 div.SDescription h1 {
   font-size: 25px  ;
   margin-bottom: 0px ;
   font-weight: normal ;
-  font-family: "Trade Gothic Bold" !important;
+  font-family: "Trade Gothic Bold", arial, sans-serif !important;
 }
 a.CButton {
   font-family: "Trade Gothic LT Narrow";
@@ -108,7 +114,7 @@ div.CAction {
   text-align: center ;
 }
 div.CNav {
-  font-family: 'Trade Gothic Bold', tahoma, verdana, arial, sans-serif !important;
+  font-family: 'Trade Gothic Bold', arial, sans-serif !important;
   border-bottom: 1px solid #000000 ;
   font-size: 16px;
   padding: 7px 0px 3px 0px ;

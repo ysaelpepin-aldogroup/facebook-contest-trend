@@ -23,8 +23,15 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  line-height: 20px;
+}
+.aldo-ct-li {
+  display: inline;
+  margin-right: 2px;
 }
 .aldo-ct-ul {
+  width: 600px;
+  margin: 0 auto;
   margin-top: 20px;
 }
 .aldo-ct-h1 {
@@ -49,11 +56,18 @@
   -padding: 2px ;
 }
 /* reskin of offerpop*/
+body,
+div,
+span,
+a,
+button {
+  font-family: "Trade Gothic LT Narrow" !important;
+}
 div.SDescription h1 {
   font-size: 25px  ;
   margin-bottom: 0px ;
   font-weight: normal ;
-  font-family: "Trade Gothic Bold";
+  font-family: "Trade Gothic Bold" !important;
 }
 a.CButton {
   font-family: "Trade Gothic LT Narrow";
@@ -61,16 +75,40 @@ a.CButton {
   -webkit-border-radius: 0px ;
   -moz-border-radius: 0px ;
   margin: 0 auto ;
-  font-size: 16px ;
   text-transform: uppercase ;
   float: none ;
   display: inline ;
+  padding: 7px 15px 7px 15px;
+  border: 0 !important;
+  -webkit-border-radius: none !important;
+  -moz-border-radius: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  behavior: url('/css/htc/PIE.htc') !important;
+  font-weight: bold !important;
+  font-size: 14px !important;
+  margin-right: 6px !important;
+  text-decoration: none !important;
+  /*http://www.aldoshoes.com/etc/content/2013/03/14b/theme/callSmallWhite.png*/
+
+  background-image: url("http://www.aldoshoes.com/etc/content/2013/03/14b/theme/callSmallblack.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: left 12px !important;
+  margin-top: 10px !important;
+  padding-top: 17px !important;
+  padding-left: 35px !important;
+  letter-spacing: 0.2em !important;
+}
+a.CButton:hover {
+  background-image: url("http://www.aldoshoes.com/etc/content/2013/03/14b/theme/callSmallYellow.png") !important;
 }
 div.CAction {
   text-align: center ;
 }
 div.CNav {
-  font-family: 'Trade Gothic LT Narrow', tahoma, verdana, arial, sans-serif;
+  font-family: 'Trade Gothic Bold', tahoma, verdana, arial, sans-serif !important;
   border-bottom: 1px solid #000000 ;
   font-size: 16px;
   padding: 7px 0px 3px 0px ;
@@ -78,14 +116,14 @@ div.CNav {
   text-align: center ;
 }
 div.CNav a:hover {
-  background: #000000 ;
+  background: #000000  !important;
   text-decoration: none ;
   border: 0 ;
-  color: white ;
+  color: white !important;
 }
 div.CNav a {
   color: #9d9b9b ;
-  background: none ;
+  background: none !important;
   padding: 6px 10px 4px 10px ;
   border: 0 ;
   text-decoration: none ;
@@ -95,16 +133,16 @@ div.CNav a {
 }
 div.CNav a.RightMenu {
   float: none ;
-  background: none ;
+  background: none !important ;
   font-weight: bold ;
   margin: -8px 0px 0 0;
   border: 0px solid #000000 ;
 }
 div.CNav a.RightMenu:hover {
-  background: #000000  ;
+  background: #000000  !important;
   text-decoration: none ;
-  border: 0 ;
-  color: white ;
+  border: 0 !important;
+  color: white !important;
 }
 div.CNav a.Disabled:hover,
 div.CNav a.Disabled {
@@ -113,9 +151,9 @@ div.CNav a.Disabled {
   color: #9d9b9b ;
 }
 div.CNav a.Sel {
-  background: none;
-  color: black;
-  border0: px solid #D8DFEA;
+  background: none !important;
+  color: black !important;
+  border: 0px solid #D8DFEA !important;
   /*facebook light blue*/
 
   border-bottom: 0;

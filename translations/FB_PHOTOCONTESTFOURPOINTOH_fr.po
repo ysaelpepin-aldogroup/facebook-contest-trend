@@ -31,118 +31,123 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 
 msgid "Tweet"
-msgstr ""
+msgstr "Tweet"
 
 msgid "Email"
-msgstr ""
+msgstr "Courriel"
 
 #. This message shows up when the email address entered by user is invalid
 msgid "Enter valid email"
-msgstr ""
+msgstr "Entrer un courriel valide"
 
 msgid "Please upload a valid picture"
-msgstr ""
+msgstr "s'il vous plaît veuillez soumettre une photo valide"
 
 msgid "Please select one of the"
-msgstr ""
+msgstr "Sélectionner un des "
 
 #. This message shows up if user forgets to fill any required field
 msgid "Required items highlighted in red"
-msgstr ""
+msgstr "Items demandés sont surlignés en rouge"
 
 msgid "Filter by"
-msgstr ""
+msgstr "Filtré par"
 
 msgid "Recently Added"
-msgstr ""
+msgstr "Récemment ajouté"
 
 msgid "Total Votes"
-msgstr "Total ♥"
+msgstr "Total des votes"
 
 msgid "Most Recent"
-msgstr ""
+msgstr "Plus récent"
 
 msgid "Most Votes"
-msgstr "Most ♥"
+msgstr "Plus de votes"
 
 msgid "Random"
-msgstr ""
+msgstr "Aléatoire"
 
 msgid "Share with Friends"
-msgstr ""
+msgstr "Partager avec vos amis"
 
 #. It's followed by your bitly link for sharing
 msgid "Link for this page:"
-msgstr ""
+msgstr "Lien pour cette page"
 
 msgid "Share on Facebook"
-msgstr ""
+msgstr "Partager sur facebook"
 
 msgid "Share"
-msgstr ""
+msgstr "Partager"
 
 msgid "OPTIONAL"
-msgstr ""
+msgstr "OPTIONEL"
 
 msgid "optional"
-msgstr ""
+msgstr "optionel"
 
 msgid "Processing, hold on"
-msgstr ""
+msgstr "En traitement, veuillez patientez"
 
 msgid "if this does not work, click"
-msgstr ""
+msgstr "Si ceci ne fonctionne pas, cliquez"
 
 msgid "here"
-msgstr ""
+msgstr "ici"
 
 msgid "Continue"
-msgstr ""
+msgstr "Continuer"
 
 msgid "This contest is over.  Thank you for participating!"
-msgstr ""
+msgstr "Ce concours est terminé. Merci d'avoir participé!"
 
 msgid "About this contest"
-msgstr ""
+msgstr "À propos de ce concours"
 
 msgid "Gallery"
-msgstr ""
+msgstr "Gallerie"
 
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 msgid "View entries"
-msgstr ""
+msgstr "Voir les entrées "
 
 msgid "Submit an entry"
-msgstr ""
+msgstr "Soumettre une entrée"
 
 msgid "Winners"
-msgstr ""
+msgstr "Gagnants"
 
 msgid "Your entry has been received!"
-msgstr ""
+msgstr "Votre entrée à été reçu"
 
 msgid "Your entry has been posted!"
-msgstr ""
+msgstr "Votre entrée à été soumise"
 
 msgid ""
 "Your entry is pending approval and is not currently viewable in the gallery."
 "<br>We review entries often, so check back soon!"
 msgstr ""
+"Votre entrée est en traitement et n'est pas disponible dans la gallerie. "
+"Nous examinons les entrées assez souvent, revérifier bientôt!"
 
 msgid ""
 "Your entry is pending approval and is not currently viewable in the gallery. "
 "We review entries often, so check back soon!"
 msgstr ""
+"Votre entrée est en traitement et n'est pas disponible dans la gallerie. "
+"Nous examinons les entrées assez souvent, revérifier bientôt!"
 
 #. It will be followed by your voting start date and time
 msgid "Voting starts"
-msgstr ""
+msgstr "Les votes débutent"
 
 #. Don't translate the string enclosed by html tag <b> and </b>
 msgid "People can vote for you by clicking the <b>'Vote'</b> button below."
 msgstr ""
+"Les gens peuvent voter pour vous en cliquant le boutton Vote au dessous."
 
 #. Don't translate the string enclosed by html tag <b> and </b>
 msgid ""
@@ -152,9 +157,10 @@ msgstr ""
 
 msgid "To tweet or email people, use the share links on the upper right."
 msgstr ""
+"Afin de tweet ou email les gens veuillez utiliser les liens en haut à droite."
 
 msgid "Good luck!"
-msgstr ""
+msgstr "Bonne chance!"
 
 #. Don't translate the string enclosed by html tag <b> and </b>
 msgid ""
@@ -162,72 +168,80 @@ msgid ""
 "the '<b>Connect</b>' button to the right to link your entry to your Facebook "
 "account."
 msgstr ""
+"Si vous voulez modifier votre entrée à un certain moment du concours, "
+"cliquez le boutton Connect à droite du lien afin de relier ce dernier à "
+"votre compte facebook.  "
 
 #. Don't translate the string enclosed by html tag <b> and </b>
 msgid ""
 "If you don't click '<b>Connect</b>' now, you will not be able to edit your "
 "entry at all."
 msgstr ""
+"Si vous ne cliquez pas le boutton Connect maintenant, vous ne pourrez plus "
+"modifier votre entrée du tout. "
 
 msgid "Connect"
-msgstr ""
+msgstr "Connecter"
 
 #. Don't translate this if you are not using moderated entries
 msgid ""
 "Your entry is currently pending approval. Check back soon!<br><br>Save this "
 "link for your records: "
-msgstr ""
+msgstr "Votre entrée est présentement en traitement. Revérifier bientôt !"
 
 msgid "This is your entry."
-msgstr ""
+msgstr "Voici votre entrée"
 
 msgid "Click 'Edit' to make changes"
-msgstr ""
+msgstr "Cliquez sur 'Modifier' pour faire des changements"
 
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #. This string will be followed by the submitter's name
 msgid "More from"
-msgstr ""
+msgstr "Plus de "
 
 msgid "submit another entry"
-msgstr ""
+msgstr "Soumettre une autre entrée"
 
 msgid "votes"
-msgstr "♥"
+msgstr "votes"
 
 msgid "If you like this, come back then to vote for it!"
-msgstr ""
+msgstr "Si vous aimez celle-ci, revenez pour lui soumettre votre vote !"
 
 msgid "Contest details"
-msgstr ""
+msgstr "Détails du concours"
 
 msgid "Vote"
 msgstr "Love It"
 
 msgid "Having trouble voting? Report a problem!"
 msgstr ""
+"Vous avez un problème concernant les votes? Veuillez signaler le problème!"
 
 msgid "Add a comment"
-msgstr ""
+msgstr "Ajouter un commentaire"
 
 msgid "You need to wait one hour between votes"
-msgstr "You need to wait one hour between ♥"
+msgstr "Vous devez attendre une heure entre les votes"
 
 msgid "You can vote once every 24 hours"
-msgstr ""
+msgstr "Vous pouvez voter une fois à chaque 24 heures"
 
 msgid "Limit of 1 vote per person"
-msgstr ""
+msgstr "Limite d'un seul vote par personne"
 
 msgid "per entry"
-msgstr ""
+msgstr "Par entrée"
 
 msgid ""
 "Why is {{this.coupon.getFacebookApp.get_name}} asking for access to my "
 "Facebook profile?"
 msgstr ""
+"Pourquoi est-ce que {{this.coupon.getFacebookApp.get_name}} demande accès à "
+"ma page Facebook ? "
 
 msgid ""
 "is using {{this.coupon.getFacebookApp.get_name}} to run this program. To "
@@ -235,46 +249,55 @@ msgid ""
 "checking your public Facebook profile. We will not use this information for "
 "any other purpose, and we will never post to your wall or send you spam."
 msgstr ""
+"est-ce qu'en utilisant {{this.coupon.getFacebookApp.get_name}} pour faire "
+"fonctionner le programme. Pour réduire le potentiel de votes fraudés, nous "
+"avons besoin de confirmer qui vous êtes en regardant votre page Facebook "
+"privé. Nous n'allons pas utiliser cette information pour aucun autre but, et "
+"nous n'allons jamais poster sur votre mur ni vous envoyez des spams."
 
 msgid ""
 "Hope this answers any concerns you may have had. To go ahead and "
 "participate, just click the button to the right."
 msgstr ""
+"En espérant que ce message répond à vos inquiétudes. Afin de participer, "
+"simplement cliquez sur le boutton à droite. "
 
 msgid "SENDING"
-msgstr ""
+msgstr "ENVOI"
 
 msgid "Skip this, and don't enter contest"
-msgstr ""
+msgstr "Passer cette étape et ne pas participer au concours"
 
 msgid "This promotion is over.  Thanks for participating!"
-msgstr ""
+msgstr "Cette promotion est terminer. Merci d'avoir participé !"
 
 msgid ""
 "This is just for our fans on Facebook.<br>To become a fan and get access, "
 "click the Like button above!"
 msgstr ""
+"Ceci est seulement pour nos fans sur Facebook. Afin de devenir fan et y "
+"avoir accès, veuillez cliquer le bouton J'aime au dessus !"
 
 msgid "The entry submission period is over."
-msgstr ""
+msgstr "La période de soumission d'entrées est terminé. "
 
 msgid "More info"
-msgstr ""
+msgstr "Plus d'informations"
 
 msgid "Select from the following"
-msgstr ""
+msgstr "Sélectionnez parmis "
 
 msgid "Picture:"
-msgstr ""
+msgstr "Photo: "
 
 msgid "Choose a high-quality image to enter."
-msgstr ""
+msgstr "Choisir une image de haute qualité afin d'entrée"
 
 msgid "From Facebook"
-msgstr ""
+msgstr "De Facebook"
 
 msgid "OR"
-msgstr ""
+msgstr "OU"
 
 msgid "Upload"
 msgstr ""
@@ -283,156 +306,193 @@ msgid "uploading your picture, please wait"
 msgstr ""
 
 msgid "This may take a few minutes for large picture files"
-msgstr ""
+msgstr "Ceci risque de prendre quelques minutes pour les images plus larges"
 
 msgid "cancel upload"
 msgstr ""
 
 msgid "Register using Facebook"
-msgstr ""
+msgstr "S'inscrire en utilisant Facebook"
 
 msgid ""
 "This form is only for Facebook users. Just click above to register. You must "
 "register to participate."
 msgstr ""
+"Ce format est seulement pour les utilisateurs de Facebook. Il suffit de "
+"cliquer au dessus afin de s'inscrire. Vous devez être inscrit afin de "
+"participer."
 
 msgid "Use your Facebook information"
-msgstr ""
+msgstr "Utilisez vos informations Facebook"
 
 msgid ""
 "Use your Facebook information to make filling out this form easier and to "
 "include your photo."
 msgstr ""
+"Utilisez vos informations Facebook afin de rendre ce formulaire plus facile "
+"et afin d'y inclure votre photo."
 
 msgid "Share my photo on my Facebook Timeline"
-msgstr ""
+msgstr "Partagez ma photo sur mon \"Facebook Timeline\""
 
 msgid "This contest is over.  Thanks to all who joined us!"
-msgstr ""
+msgstr "Ce concours est terminé. Merci pour tous ceux qui ont participé !"
 
 msgid "Click to see all the entries, and who won!"
-msgstr ""
+msgstr "Cliquez ici pour voir tous les entrées ainsi que les gagnants !"
 
 msgid "All votes are in!"
-msgstr "All ♥ are in!"
+msgstr "Tous les votes sont rentrés"
 
 msgid "Thanks for your participation!"
-msgstr ""
+msgstr "Merci de votre participation!"
 
 msgid "Show more entries"
-msgstr ""
+msgstr "Montrer plus d'entrée"
 
 msgid "An error occurred. Please refresh and try again."
 msgstr ""
+"Une erreur s'est produite. Veuillez rafraîchir votre page et réessayer."
 
 msgid "No matching entries found."
-msgstr ""
+msgstr "Aucune entrée correspondante n'a été trouvé."
 
 msgid "Click to see the winning entries!"
-msgstr ""
+msgstr "Cliquez ici pour voir les entrées gagnantes!"
 
 msgid "By participating in this promotion you agree to the"
-msgstr ""
+msgstr "En participant à cette promotion, vous accepté les"
 
 msgid "Official Rules"
-msgstr ""
+msgstr "règles officielles"
 
 msgid "You are providing your information to"
-msgstr ""
+msgstr "Vous fournissez vos information à"
 
 msgid ""
 "and not to Facebook. Your information will only be used in accordance with "
 "the Official Rules."
 msgstr ""
+"et non à Facebook. Vos informations seront utilisé conformément aux règles "
+"officielles."
 
 msgid ""
 "We had a problem processing your vote. Please refresh the page and try again."
 msgstr ""
+"Nous avons eu un problème en traitant votre vote. Veuillez raffraîchir la "
+"page et réessayer."
 
 msgid "We had a problem processing your vote."
-msgstr ""
+msgstr "Nous avons eu un problème en traitant votre vote."
 
 msgid "We've already received a vote from your Facebook account."
-msgstr ""
+msgstr "Nous avons déjà reçu un vote de votre compte Facebook."
 
 msgid ""
 "If you're trying to vote from work or a public place, voting from home "
 "should help."
 msgstr ""
+"Si vous essayé de voter de votre bureau ou d'un endroit public, voter à la "
+"maison devrait vous aider."
 
 #. Translate the following six messages if you are using Assured Voting.
 msgid ""
 "We've already received a vote from your Facebook account for this entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook pour cette entrée."
 
 msgid ""
 "We've already received a vote from your Facebook account in this contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook dans ce concours."
 
 msgid ""
 "We've already received a vote from your Facebook account within the past "
 "hour for this entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook dans les dernières "
+"heures pour cette entrée."
 
 msgid ""
 "We've already received a vote from your Facebook account within the past "
 "hour in this contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook dans la dernière heure "
+"dans ce concours."
 
 msgid ""
 "We've already received a vote from your Facebook account within the past 24 "
 "hours for this entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook dans les dernières 24 "
+"heures pour cette entrée."
 
 msgid ""
 "We've already received a vote from your Facebook account within the past 24 "
 "hours in this contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre compte Facebook dans les dernières 24 "
+"heures dans ce concours."
 
 #. Translate the following six messages if you are not using Assured Voting.
 msgid ""
 "We've already received a vote from this computer or network address for this "
 "entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau pour "
+"cette entrée"
 
 msgid ""
 "We've already received a vote from this computer or network address in this "
 "contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau dans "
+"ce concours. "
 
 msgid ""
 "We've already received a vote from this computer or network address within "
 "the past hour for this entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau  "
+"dans la dernière heure pour cette entrée."
 
 msgid ""
 "We've already received a vote from this computer or network address within "
 "the past hour in this contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau dans "
+"la dernière heure dans ce concours. "
 
 msgid ""
 "We've already received a vote from this computer or network address within "
 "the past 24 hours for this entry."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau dans "
+"les dernières 24 heures pour cette entrée."
 
 msgid ""
 "We've already received a vote from this computer or network address within "
 "the past 24 hours in this contest."
 msgstr ""
+"Nous avons déjà reçu un vote de votre ordinateur ou de l'adresse réseau dans "
+"les dernières 24 heures dans ce concours. "
 
 msgid "Voting has not started."
-msgstr ""
+msgstr "Les votes n'ont pas commencés."
 
 msgid "Voting has ended."
-msgstr ""
+msgstr "Les votes sont terminés "
 
 msgid "Votes are currently not being accepted."
-msgstr "♥ are currently not being accepted."
+msgstr "Les votes ne sont actuellement pas acceptés"
 
 msgid ""
 "We were unable to access cookies for offerpop.com from your browser. Please "
 "add offerpop.com to your browser as a trusted site."
 msgstr ""
+"Nous sommes incapable d'accéder à vos 'cookies' pour offerpop.com de votre "
+"navigateur. S'il vous plait, veuillez ajouter offerpop.com à votre "
+"navigateur en tant que site authorisé."
 
 msgid "Please enable cookies for offerpop.com and try again."
 msgstr ""
@@ -441,218 +501,239 @@ msgid ""
 "In order to vote, you need to grant permissions in the Facebook permissions "
 "dialog."
 msgstr ""
+"Afin de pouvoir voter, vous devez donner la permission à Facebook d'accéder "
+"à vos données"
 
 msgid "Please click Allow in the Facebook permissions dialog and try again."
-msgstr ""
+msgstr "Please click Allow in the Facebook permissions dialog and try again."
 
 msgid "Search entries"
-msgstr ""
+msgstr "Chercher entrée"
 
 msgid "Go"
-msgstr ""
+msgstr "Allez"
 
 msgid "Sort by"
-msgstr ""
+msgstr "Trier par"
 
 msgid "View"
-msgstr ""
+msgstr "Visualiser"
 
 msgid "Report Spam"
-msgstr ""
+msgstr "Signaler un Spam"
 
 msgid "Reported"
-msgstr ""
+msgstr "Signaler "
 
 msgid "hold down CTRL and click to select more than one"
-msgstr ""
+msgstr "tenir CTRL et cliquez afin de sélectionner plus qu'un "
 
 msgid "Click to view and vote!"
-msgstr ""
+msgstr "Cliquez afin de visualiser tous et voter ! "
 
 msgid "Invalid picture, Pictures must be PNG, JPG, or GIF format"
-msgstr ""
+msgstr "Photo invalide. Les photos doivent être en format PNG, JPG, ou GIP."
 
 msgid "First name"
-msgstr ""
+msgstr "Prénom"
 
 msgid "REQUIRED"
-msgstr ""
+msgstr "REQUIS"
 
 msgid "required"
-msgstr ""
+msgstr "requis"
 
 msgid "Last name"
-msgstr ""
+msgstr "Nom"
 
 msgid "Email address"
-msgstr ""
+msgstr "Adresse courriel"
 
 msgid "Post code"
-msgstr ""
+msgstr "Code postal"
 
 msgid "Zip"
-msgstr ""
+msgstr "Code postal "
 
 msgid "Optional"
-msgstr ""
+msgstr "Optionel"
 
 msgid "Join our email list for more contests and special offers."
 msgstr ""
+"Inscrivez vous dans notre liste de courriels afin de recevoir les concours "
+"et les promotions. "
 
 msgid "Submitting"
-msgstr ""
+msgstr "Soumission"
 
 msgid "Submit"
-msgstr ""
+msgstr "Soumettre "
 
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 msgid "Skip this, and don't submit"
-msgstr ""
+msgstr "Passer et ne pas soumettre"
 
 msgid "All"
-msgstr ""
+msgstr "Tous"
 
 msgid "Check out this entry in %(campaign_headline)s!"
-msgstr ""
+msgstr "Regardez cette entré en %(campaign_headline)s!"
 
 msgid "Please vote for this entry in %(campaign_headline)s!"
-msgstr ""
+msgstr "S'il vous plaît voter pour cette entrée en %(campaign_headline)s!"
 
 msgid "%(first_name)s featured in %(campaign_headline)s"
 msgstr ""
 
 msgid "Click here to see it"
-msgstr ""
+msgstr "Cliquez ici pour le voir "
 
 msgid "Get your friends to vote for this"
-msgstr ""
+msgstr "Ammenez vos amis à voter pour ceci"
 
 msgid "Pin It"
-msgstr ""
+msgstr "Pin it "
 
 msgid "Thumbnail"
-msgstr ""
+msgstr "Thumbnail"
 
 msgid "Use the highlighted box to the left to create a thumbnail."
-msgstr ""
+msgstr "Utilisez la boîte surligner à gauche afin de créer un apperçu."
 
 msgid "Use the highlighted box to create a thumbnail."
-msgstr ""
+msgstr "Utilisé la boîte surligner afin de créer un apperçu."
 
 msgid "All entries"
-msgstr ""
+msgstr "Tous les entrées"
 
 msgid "Entries voted by my friends"
-msgstr ""
+msgstr "Entrées votés par mes amis."
 
 msgid "Entries submitted by my friends"
-msgstr ""
+msgstr "Entrées soumises par mes amis"
 
 msgid ""
 "In order to access your Facebook friends activities, you need to login our "
 "Facebook app."
 msgstr ""
+"Afin d'accéder aux activités de vos amis, vous devez vous connecter sur "
+"notre application Facebook."
 
 msgid "Login"
-msgstr ""
+msgstr "Connecter"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canceller"
 
 msgid "Back to gallery"
-msgstr ""
+msgstr "Revenir à la gallerie"
 
 msgid "View full-size"
-msgstr ""
+msgstr "Voir en taille normal "
 
 msgid "Posted in:"
-msgstr ""
+msgstr "Soumis dans: "
 
 msgid "Select an album:"
-msgstr ""
+msgstr "Sélectionner un album:"
 
 msgid "Select a photo from:"
-msgstr ""
+msgstr "Sélectionner une photo de: "
 
 msgid "Bookmark this link and check back soon: "
-msgstr ""
+msgstr "Ajouter ce lien dans vos favoris et revérifier bientôt:"
 
 msgid "Make changes"
-msgstr ""
+msgstr "Faire des changements"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid ""
 "Get your friends to vote for you by sharing your entry on Facebook, Twitter, "
 "Pinterest or by email!"
 msgstr ""
+"Ammenez vos amis à voter pour vous en partageant votre entrée sur Facebook, "
+"Twitter, Pinterest ou par email !"
 
 msgid ""
 "Get your friends to vote for you by sharing your entry on Facebook, Twitter, "
 "Pinterest or by email using the links on the upper right!"
 msgstr ""
+"Ammenez vos amis à voter pour vous en partageant votre entrée sur Facebook, "
+"Twitter, Pinterest ou par email en utilisant les liens en haut à droite!"
 
 msgid ""
 "Connect with Facebook now to link your entry to your Facebook account.  That "
 "way we'll know it's you if you want to make changes later."
 msgstr ""
+"Connecter vous avec Facebook maintenant, afin de relier votre entrée à votre "
+"compte Facebook. De cette façon, nous allons pouvoir savoir que c'est vous, "
+"lorsque vous faites des changements plutard."
 
 msgid ""
 "If you don't connect now, you will not be able to make changes to your entry "
 "at all."
 msgstr ""
+"Si vous ne vous connecter pas maintenant, vous ne pourrez plus être capable "
+"de faire des changements à votre entrée"
 
 msgid "Connect with Facebook"
-msgstr ""
+msgstr "Connectez vous avec Facebook"
 
 msgid "Facebook Friends only"
-msgstr ""
+msgstr "Amis Facebook seulement"
 
 msgid "Or, just snap a photo with your phone and:"
-msgstr ""
+msgstr "Ou, seulement prendre une photo avec votre téléphone et: "
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #. Followed by your Twitter hashtag
 msgid "Tweet a photo and tag it with"
-msgstr ""
+msgstr "Envoyez votre photo en tweet et faite un tag avec"
 
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #. Followed by your Instagram hashtag
 msgid "Upload a photo and tag it with"
-msgstr ""
+msgstr "Téléverser une photo et faite un tag avec"
 
 msgid ""
 "This app is for fans only. Please click below to grant permissions so we can "
 "confirm you're a fan."
 msgstr ""
+"Cette application est pour les fans seulement. S'il vous plaît veuillez "
+"cliquez ci-dessous afin de nous permettre de confirmer que vous êtes fan."
 
 msgid "Sorry, you can only enter once every 24 hours.  Please try again later!"
 msgstr ""
+"Désolé, vous pouvez soumettre une entrée à chaque 24 heures seulement. "
+"Veuillez réessayer plutard!"
 
 msgid "Sorry, you can only enter once."
-msgstr ""
+msgstr "Désolé vous pouvez soummettre une entrée une seule fois"
 
 msgid "Back to our Facebook page"
-msgstr ""
+msgstr "Retourner à notre page Facebook"
 
 msgid "Is this your entry?"
-msgstr ""
+msgstr "Est-ce votre entrée"
 
 msgid "via Twitter"
-msgstr ""
+msgstr "via Twitter"
 
 msgid "via Instagram"
-msgstr ""
+msgstr "via Instagram"
 
 #. Don't translate placeholders {{this.platform}} and {{this.username}}, they will be replaced with appropriate values automatically
 msgid ""
 "To claim this entry, you must be logged in with the {{this.platform}} "
 "account used to submit it, &#64;{{this.username}}. Please try again."
 msgstr ""
+"Afin de  réclamer cette entrée, vous devez être connecter avec le compte "
+"utilisé lors de la soumission. Veuillez réessayer."

@@ -1,4 +1,6 @@
-@import url("http://www.aldoshoes.com/css/fonts.css");
+//@import url("http://www.aldoshoes.com/css/fonts.css");
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 @container-width:790px;
 @p-width:500px;
@@ -9,6 +11,12 @@
 @small-space:20px;
 @hr-width:150px;
 
+@font-familly: 'Oswald', sans-serif !important;
+
+@font-weight-book: 300 !important;
+@font-weight-normal: 400 !important;
+@font-weight-bold: 700 !important;
+
 
 .small-space-m-top{
 	margin-top: @small-space;
@@ -18,7 +26,8 @@
 	margin-top: @big-space;
 }
 .aldo-ct-container{
-	font-family: "Trade Gothic LT Narrow" , arial, sans-serif  !important;
+	font-family: @font-familly;
+	font-weight: @font-weight-book;
 	width: @container-width;
 	text-align: center;
 	-background-color: #ff0066;
@@ -54,11 +63,13 @@
 }
 
 .aldo-ct-h1{
+	font-family: @font-familly;
+	font-weight: @font-weight-bold;
 	font-size: @h1-font-size !important;
 	text-transform: uppercase;
 	padding: 0;
 	margin: 0;
-	font-family: "Trade Gothic Bold" , arial, sans-serif !important;
+	
 	margin-top: @small-space !important;
 
 }
@@ -80,7 +91,8 @@
 }
 
 .aldo-ct-bold{
-	font-family: "Trade Gothic Bold" , arial, sans-serif !important ;
+	font-family: @font-familly;
+	font-weight: @font-weight-bold;
 }
 
 .aldo-ct-small{
@@ -88,18 +100,21 @@
 }
 /* reskin of offerpop*/
 body, div, span, a, button {
-	font-family:"Trade Gothic LT Narrow"  , arial, sans-serif !important;
+	font-family: @font-familly;
+	font-weight: @font-weight-book;
 }
 
 div.SDescription h1 {
 	font-size: 25px  ;
 	margin-bottom: 0px ;
 	font-weight: normal ;
-	font-family: "Trade Gothic Bold" , arial, sans-serif !important ;
+	font-family: @font-familly;
+	font-weight: @font-weight-bold;
 }
 
 a.CButton {
-	font-family: "Trade Gothic LT Narrow";
+	font-family: @font-familly;
+	font-weight: @font-weight-book;
 	color: #000000 ;
 	-webkit-border-radius: 0px ;
 	-moz-border-radius: 0px ;
@@ -144,13 +159,15 @@ div.CAction{
 }
 
 div.CNav{
-	font-family: 'Trade Gothic Bold', arial, sans-serif  !important;
+	font-family: @font-familly;
+	font-weight: @font-weight-bold;
 	border-bottom: 1px solid #000000 ;
 	font-size: @text-font-size ;
 	padding: 7px 0px 3px 0px ;
 
 	text-transform: uppercase ;
 	text-align: center ;
+	margin-top: 25px !important;
 }
 
 div.CNav a:hover {
@@ -161,20 +178,24 @@ div.CNav a:hover {
 }
 
 div.CNav a {
+font-family: @font-familly;
+	font-weight: @font-weight-bold;
 	color: #9d9b9b ;
 	background:none !important;
 	padding: 6px 10px 4px 10px ;
 	border: 0 ;
 	text-decoration: none ;
-	font-weight: normal ;
+
 	border: 0px solid #000000 ;
 	font-size: @small-text-font-size ;
 }
 
 div.CNav a.RightMenu {
+	font-family: @font-familly;
+	font-weight: @font-weight-bold;
   float: none ;
   background: none !important ;
-  font-weight: bold ;
+  
   margin: -8px 0px 0 0 ;
   border: 0px solid #000000 ;
 }
@@ -201,6 +222,46 @@ color:black !important;
 border: 0px solid #D8DFEA !important; /*facebook light blue*/
 border-bottom:0;
 padding-bottom:5px;
+}
+
+
+div.VButton a ,div.SSubmit button, div.SSubmit input[type=button] {
+  color: none !important;
+  background: #fff100 !important;
+  color: #020202 !important;
+  text-transform: uppercase !important;
+  padding: 10px 15px 7px 37px !important;
+  font-size: 18px !important;
+  border: 4px solid #000000 !important;
+  -moz-border-radius: 0px !important;
+  background-image: url("http://www.aldoshoes.com/etc/content/2013/03/14b/theme/callSmallblack.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: 6px 7px !important;
+  -webkit-border-radius: 0px !important;
+  text-decoration: none !important;
+ 
+
+ font-family: @font-familly;
+	font-weight: @font-weight-bold;
+}
+
+div.VButton a:hover,div.SSubmit button:hover, div.SSubmit input[type=button]:hover  {
+
+  color: none !important;
+  background: #fff100 !important;
+  color: #020202 !important;
+  text-transform: uppercase !important;
+  padding: 10px 15px 7px 37px !important;
+  font-size: 18px !important;
+  border: 4px solid #000000 !important;
+  -moz-border-radius: 0px !important;
+  background-image: url("http://www.aldoshoes.com/etc/content/2013/03/14b/theme/callSmallWhite.png") !important;
+  background-repeat: no-repeat !important;
+  background-position: 6px 7px !important;
+  -webkit-border-radius: 0px !important;
+  text-decoration: none !important;
+ font-family: @font-familly;
+	font-weight: @font-weight-bold;
 }
 
 

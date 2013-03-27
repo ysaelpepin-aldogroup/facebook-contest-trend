@@ -223,3 +223,6 @@ div#CVoteCountBox {
   font-size: 24px;
   margin-bottom: 27px !important;
 }
+.gallery-photo-info-background {
+  background: none !important;
+}

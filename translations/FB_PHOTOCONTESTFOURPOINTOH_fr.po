@@ -112,10 +112,10 @@ msgid "About"
 msgstr "À propos"
 
 msgid "View entries"
-msgstr "Voir les entrées "
+msgstr "Gallerie des participants"
 
 msgid "Submit an entry"
-msgstr "Soumettre une entrée"
+msgstr "Inscrivez-vous"
 
 msgid "Winners"
 msgstr "Gagnants"
@@ -285,13 +285,13 @@ msgid "More info"
 msgstr "Plus d'informations"
 
 msgid "Select from the following"
-msgstr "Sélectionnez parmis "
+msgstr "Sélectionnez parmis les"
 
 msgid "Picture:"
 msgstr "Photo: "
 
 msgid "Choose a high-quality image to enter."
-msgstr "Choisir une image de haute qualité afin d'entrée"
+msgstr "Choisir une image de haute qualité afin de vous inscrire"
 
 msgid "From Facebook"
 msgstr "De Facebook"
@@ -300,7 +300,7 @@ msgid "OR"
 msgstr "OU"
 
 msgid "Upload"
-msgstr ""
+msgstr "Téléverser"
 
 msgid "uploading your picture, please wait"
 msgstr ""
@@ -508,10 +508,10 @@ msgid "Please click Allow in the Facebook permissions dialog and try again."
 msgstr "Please click Allow in the Facebook permissions dialog and try again."
 
 msgid "Search entries"
-msgstr "Chercher entrée"
+msgstr "Cherchez"
 
 msgid "Go"
-msgstr "Allez"
+msgstr "☌"
 
 msgid "Sort by"
 msgstr "Trier par"
@@ -576,7 +576,7 @@ msgid "Skip this, and don't submit"
 msgstr "Passer et ne pas soumettre"
 
 msgid "All"
-msgstr "Tous"
+msgstr "Tous les"
 
 msgid "Check out this entry in %(campaign_headline)s!"
 msgstr "Regardez cette entré en %(campaign_headline)s!"
